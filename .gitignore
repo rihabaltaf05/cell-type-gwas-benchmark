@@ -1,0 +1,16 @@
+*.h5ad
+*.h5
+*.loom
+*.gs
+*.mtx
+*.gz
+*.log
+*.out
+logs/
+envs/r_ewce/
+envs/scdrs/
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.DS_Store
