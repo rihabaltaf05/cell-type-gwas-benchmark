@@ -1,0 +1,239 @@
+"trait","cell_type","p_ewce","p_fgsea","p_scdrs"
+"BMI_CTRL","astrocyte",NA,NA,0.007992008
+"BMI_CTRL","Bergmann glial cell",NA,NA,0.027972028
+"BMI_CTRL","brain pericyte",NA,NA,0.66433567
+"BMI_CTRL","CD8-positive, alpha-beta T cell",NA,NA,0.55944055
+"BMI_CTRL","endothelial cell",NA,NA,0.94305694
+"BMI_CTRL","ependymal cell",NA,NA,0.94905096
+"BMI_CTRL","interneuron",NA,NA,0.000999001
+"BMI_CTRL","macrophage",NA,NA,0.997003
+"BMI_CTRL","mature NK T cell",NA,NA,0.44855145
+"BMI_CTRL","medium spiny neuron",NA,NA,0.000999001
+"BMI_CTRL","microglial cell",NA,NA,0.976024
+"BMI_CTRL","neuroepithelial cell",NA,NA,0.25874126
+"BMI_CTRL","neuron",NA,NA,0.000999001
+"BMI_CTRL","neuronal stem cell",NA,NA,0.022977022
+"BMI_CTRL","oligodendrocyte",NA,NA,0.08991009
+"BMI_CTRL","oligodendrocyte precursor cell",NA,NA,0.000999001
+"BMI_CTRL","T cell",NA,NA,0.5294705
+"CAD_CTRL","astrocyte",0.807,NA,0.16983017
+"CAD_CTRL","Bergmann glial cell",0.375,NA,0.5564436
+"CAD_CTRL","brain pericyte",0.907,NA,0.024975024
+"CAD_CTRL","CD8-positive, alpha-beta T cell",0.728,NA,0.999001
+"CAD_CTRL","endothelial cell",0.115,NA,0.22577423
+"CAD_CTRL","ependymal cell",0.257,NA,0.25574425
+"CAD_CTRL","interneuron",0.466,NA,0.75524473
+"CAD_CTRL","macrophage",0.394,NA,0.6593407
+"CAD_CTRL","mature NK T cell",0.129,NA,0.982018
+"CAD_CTRL","medium spiny neuron",0.787,NA,0.37462538
+"CAD_CTRL","microglial cell",0.203,NA,0.42657343
+"CAD_CTRL","neuroepithelial cell",0.49,NA,0.64035964
+"CAD_CTRL","neuron",0.697,NA,0.5984016
+"CAD_CTRL","neuronal stem cell",0.717,NA,0.97902095
+"CAD_CTRL","oligodendrocyte",0.635,NA,0.3926074
+"CAD_CTRL","oligodendrocyte precursor cell",0.363,NA,0.95404595
+"CAD_CTRL","T cell",0.578,NA,0.9220779
+"CROHN_CTRL","astrocyte",0.179,NA,0.5314685
+"CROHN_CTRL","Bergmann glial cell",1,NA,0.964036
+"CROHN_CTRL","brain pericyte",0.037,NA,0.7442557
+"CROHN_CTRL","CD8-positive, alpha-beta T cell",0.162,NA,0.000999001
+"CROHN_CTRL","endothelial cell",0.229,NA,0.3146853
+"CROHN_CTRL","ependymal cell",1,NA,0.98301697
+"CROHN_CTRL","interneuron",0.17,NA,0.978022
+"CROHN_CTRL","macrophage",0.522,NA,0.045954045
+"CROHN_CTRL","mature NK T cell",1,NA,0.003996004
+"CROHN_CTRL","medium spiny neuron",0.167,NA,0.82817185
+"CROHN_CTRL","microglial cell",0.255,NA,0.010989011
+"CROHN_CTRL","neuroepithelial cell",0.566,NA,0.86713284
+"CROHN_CTRL","neuron",0.189,NA,0.8931069
+"CROHN_CTRL","neuronal stem cell",0.659,NA,0.992008
+"CROHN_CTRL","oligodendrocyte",0.287,NA,0.999001
+"CROHN_CTRL","oligodendrocyte precursor cell",0.501,NA,0.982018
+"CROHN_CTRL","T cell",0.264,NA,0.006993007
+"HEIGHT_100k","astrocyte",0.45,NA,0.3216783
+"HEIGHT_100k","Bergmann glial cell",1,NA,0.35964036
+"HEIGHT_100k","brain pericyte",0.203,NA,0.002997003
+"HEIGHT_100k","CD8-positive, alpha-beta T cell",0.204,NA,0.93106896
+"HEIGHT_100k","endothelial cell",0.207,NA,0.8841159
+"HEIGHT_100k","ependymal cell",1,NA,0.26273727
+"HEIGHT_100k","interneuron",1,NA,0.73226774
+"HEIGHT_100k","macrophage",0.557,NA,0.973027
+"HEIGHT_100k","mature NK T cell",1,NA,0.8141858
+"HEIGHT_100k","medium spiny neuron",1,NA,0.36963037
+"HEIGHT_100k","microglial cell",0.378,NA,0.20479521
+"HEIGHT_100k","neuroepithelial cell",0.066,NA,0.38161838
+"HEIGHT_100k","neuron",1,NA,0.7762238
+"HEIGHT_100k","neuronal stem cell",1,NA,0.005994006
+"HEIGHT_100k","oligodendrocyte",0.268,NA,0.5264735
+"HEIGHT_100k","oligodendrocyte precursor cell",0.395,NA,0.43956044
+"HEIGHT_100k","T cell",1,NA,0.5354645
+"HEIGHT_200k","astrocyte",0.453,NA,0.3216783
+"HEIGHT_200k","Bergmann glial cell",1,NA,0.35964036
+"HEIGHT_200k","brain pericyte",0.201,NA,0.002997003
+"HEIGHT_200k","CD8-positive, alpha-beta T cell",0.197,NA,0.93106896
+"HEIGHT_200k","endothelial cell",0.2,NA,0.8841159
+"HEIGHT_200k","ependymal cell",1,NA,0.26273727
+"HEIGHT_200k","interneuron",1,NA,0.73226774
+"HEIGHT_200k","macrophage",0.581,NA,0.973027
+"HEIGHT_200k","mature NK T cell",1,NA,0.8141858
+"HEIGHT_200k","medium spiny neuron",1,NA,0.36963037
+"HEIGHT_200k","microglial cell",0.389,NA,0.20479521
+"HEIGHT_200k","neuroepithelial cell",0.073,NA,0.38161838
+"HEIGHT_200k","neuron",1,NA,0.7762238
+"HEIGHT_200k","neuronal stem cell",1,NA,0.005994006
+"HEIGHT_200k","oligodendrocyte",0.253,NA,0.5264735
+"HEIGHT_200k","oligodendrocyte precursor cell",0.377,NA,0.43956044
+"HEIGHT_200k","T cell",1,NA,0.5354645
+"HEIGHT_20k","astrocyte",NA,0.787212787212787,0.44255745
+"HEIGHT_20k","Bergmann glial cell",NA,0.417582417582418,0.42457542
+"HEIGHT_20k","brain pericyte",NA,0.377622377622378,0.02997003
+"HEIGHT_20k","CD8-positive, alpha-beta T cell",NA,0.965034965034965,0.55344653
+"HEIGHT_20k","endothelial cell",NA,0.994005994005994,0.96004
+"HEIGHT_20k","ependymal cell",NA,0.458541458541459,0.04295704
+"HEIGHT_20k","interneuron",NA,0.74025974025974,0.31968033
+"HEIGHT_20k","macrophage",NA,0.82017982017982,0.994006
+"HEIGHT_20k","mature NK T cell",NA,0.402597402597403,0.7442557
+"HEIGHT_20k","medium spiny neuron",NA,0.972027972027972,0.8131868
+"HEIGHT_20k","microglial cell",NA,0.973026973026973,0.6203796
+"HEIGHT_20k","neuroepithelial cell",NA,0.999000999000999,0.28771228
+"HEIGHT_20k","neuron",NA,0.86013986013986,0.5044955
+"HEIGHT_20k","neuronal stem cell",NA,0.335664335664336,0.7092907
+"HEIGHT_20k","oligodendrocyte",NA,0.829170829170829,0.13186814
+"HEIGHT_20k","oligodendrocyte precursor cell",NA,0.72027972027972,0.51648355
+"HEIGHT_20k","T cell",NA,0.995004995004995,0.6413586
+"HEIGHT_500k","astrocyte",0.449,NA,0.3216783
+"HEIGHT_500k","Bergmann glial cell",1,NA,0.35964036
+"HEIGHT_500k","brain pericyte",0.201,NA,0.002997003
+"HEIGHT_500k","CD8-positive, alpha-beta T cell",0.2,NA,0.93106896
+"HEIGHT_500k","endothelial cell",0.194,NA,0.8841159
+"HEIGHT_500k","ependymal cell",1,NA,0.26273727
+"HEIGHT_500k","interneuron",1,NA,0.73226774
+"HEIGHT_500k","macrophage",0.543,NA,0.973027
+"HEIGHT_500k","mature NK T cell",1,NA,0.8141858
+"HEIGHT_500k","medium spiny neuron",1,NA,0.36963037
+"HEIGHT_500k","microglial cell",0.397,NA,0.20479521
+"HEIGHT_500k","neuroepithelial cell",0.077,NA,0.38161838
+"HEIGHT_500k","neuron",1,NA,0.7762238
+"HEIGHT_500k","neuronal stem cell",1,NA,0.005994006
+"HEIGHT_500k","oligodendrocyte",0.259,NA,0.5264735
+"HEIGHT_500k","oligodendrocyte precursor cell",0.394,NA,0.43956044
+"HEIGHT_500k","T cell",1,NA,0.5354645
+"HEIGHT_50k","astrocyte",0.478,NA,0.3216783
+"HEIGHT_50k","Bergmann glial cell",1,NA,0.35964036
+"HEIGHT_50k","brain pericyte",0.207,NA,0.002997003
+"HEIGHT_50k","CD8-positive, alpha-beta T cell",0.206,NA,0.93106896
+"HEIGHT_50k","endothelial cell",0.206,NA,0.8841159
+"HEIGHT_50k","ependymal cell",1,NA,0.26273727
+"HEIGHT_50k","interneuron",1,NA,0.73226774
+"HEIGHT_50k","macrophage",0.524,NA,0.973027
+"HEIGHT_50k","mature NK T cell",1,NA,0.8141858
+"HEIGHT_50k","medium spiny neuron",1,NA,0.36963037
+"HEIGHT_50k","microglial cell",0.402,NA,0.20479521
+"HEIGHT_50k","neuroepithelial cell",0.06,NA,0.38161838
+"HEIGHT_50k","neuron",1,NA,0.7762238
+"HEIGHT_50k","neuronal stem cell",1,NA,0.005994006
+"HEIGHT_50k","oligodendrocyte",0.274,NA,0.5264735
+"HEIGHT_50k","oligodendrocyte precursor cell",0.406,NA,0.43956044
+"HEIGHT_50k","T cell",1,NA,0.5354645
+"HEIGHT_CTRL","astrocyte",0.466,NA,0.3216783
+"HEIGHT_CTRL","Bergmann glial cell",1,NA,0.35964036
+"HEIGHT_CTRL","brain pericyte",0.206,NA,0.002997003
+"HEIGHT_CTRL","CD8-positive, alpha-beta T cell",0.213,NA,0.93106896
+"HEIGHT_CTRL","endothelial cell",0.212,NA,0.8841159
+"HEIGHT_CTRL","ependymal cell",1,NA,0.26273727
+"HEIGHT_CTRL","interneuron",1,NA,0.73226774
+"HEIGHT_CTRL","macrophage",0.525,NA,0.973027
+"HEIGHT_CTRL","mature NK T cell",1,NA,0.8141858
+"HEIGHT_CTRL","medium spiny neuron",1,NA,0.36963037
+"HEIGHT_CTRL","microglial cell",0.415,NA,0.20479521
+"HEIGHT_CTRL","neuroepithelial cell",0.072,NA,0.38161838
+"HEIGHT_CTRL","neuron",1,NA,0.7762238
+"HEIGHT_CTRL","neuronal stem cell",1,NA,0.005994006
+"HEIGHT_CTRL","oligodendrocyte",0.28,NA,0.5264735
+"HEIGHT_CTRL","oligodendrocyte precursor cell",0.413,NA,0.43956044
+"HEIGHT_CTRL","T cell",1,NA,0.5354645
+"SCZ1_ARM1","astrocyte",NA,0.3996003996004,NA
+"SCZ1_ARM1","Bergmann glial cell",NA,0.733266733266733,NA
+"SCZ1_ARM1","brain pericyte",NA,0.845154845154845,NA
+"SCZ1_ARM1","CD8-positive, alpha-beta T cell",NA,0.954045954045954,NA
+"SCZ1_ARM1","endothelial cell",NA,0.951048951048951,NA
+"SCZ1_ARM1","ependymal cell",NA,0.964035964035964,NA
+"SCZ1_ARM1","interneuron",NA,0.805194805194805,NA
+"SCZ1_ARM1","macrophage",NA,0.795204795204795,NA
+"SCZ1_ARM1","mature NK T cell",NA,0.58041958041958,NA
+"SCZ1_ARM1","medium spiny neuron",NA,0.981018981018981,NA
+"SCZ1_ARM1","microglial cell",NA,0.954045954045954,NA
+"SCZ1_ARM1","neuroepithelial cell",NA,0.216783216783217,NA
+"SCZ1_ARM1","neuron",NA,0.979020979020979,NA
+"SCZ1_ARM1","neuronal stem cell",NA,0.751248751248751,NA
+"SCZ1_ARM1","oligodendrocyte",NA,0.205794205794206,NA
+"SCZ1_ARM1","oligodendrocyte precursor cell",NA,0.73026973026973,NA
+"SCZ1_ARM1","T cell",NA,0.666333666333666,NA
+"SCZ2_ARM1","astrocyte",NA,NA,0.001998002
+"SCZ2_ARM1","Bergmann glial cell",NA,NA,0.006993007
+"SCZ2_ARM1","brain pericyte",NA,NA,0.6023976
+"SCZ2_ARM1","CD8-positive, alpha-beta T cell",NA,NA,0.9100899
+"SCZ2_ARM1","endothelial cell",NA,NA,0.985015
+"SCZ2_ARM1","ependymal cell",NA,NA,0.103896104
+"SCZ2_ARM1","interneuron",NA,NA,0.004995005
+"SCZ2_ARM1","macrophage",NA,NA,1
+"SCZ2_ARM1","mature NK T cell",NA,NA,0.994006
+"SCZ2_ARM1","medium spiny neuron",NA,NA,0.000999001
+"SCZ2_ARM1","microglial cell",NA,NA,0.97002995
+"SCZ2_ARM1","neuroepithelial cell",NA,NA,0.46653345
+"SCZ2_ARM1","neuron",NA,NA,0.000999001
+"SCZ2_ARM1","neuronal stem cell",NA,NA,0.001998002
+"SCZ2_ARM1","oligodendrocyte",NA,NA,0.07392608
+"SCZ2_ARM1","oligodendrocyte precursor cell",NA,NA,0.000999001
+"SCZ2_ARM1","T cell",NA,NA,0.8021978
+"SCZ3_ARM1","astrocyte",NA,0.752247752247752,NA
+"SCZ3_ARM1","Bergmann glial cell",NA,0.722277722277722,NA
+"SCZ3_ARM1","brain pericyte",NA,0.55044955044955,NA
+"SCZ3_ARM1","CD8-positive, alpha-beta T cell",NA,0.814185814185814,NA
+"SCZ3_ARM1","endothelial cell",NA,0.973026973026973,NA
+"SCZ3_ARM1","ependymal cell",NA,0.995004995004995,NA
+"SCZ3_ARM1","interneuron",NA,0.896103896103896,NA
+"SCZ3_ARM1","macrophage",NA,0.576423576423576,NA
+"SCZ3_ARM1","mature NK T cell",NA,0.679320679320679,NA
+"SCZ3_ARM1","medium spiny neuron",NA,0.989010989010989,NA
+"SCZ3_ARM1","microglial cell",NA,0.953046953046953,NA
+"SCZ3_ARM1","neuroepithelial cell",NA,0.294705294705295,NA
+"SCZ3_ARM1","neuron",NA,0.963036963036963,NA
+"SCZ3_ARM1","neuronal stem cell",NA,0.836163836163836,NA
+"SCZ3_ARM1","oligodendrocyte",NA,0.366633366633367,NA
+"SCZ3_ARM1","oligodendrocyte precursor cell",NA,0.882117882117882,NA
+"SCZ3_ARM1","T cell",NA,0.461538461538462,NA
+"SCZ3_NO23_ARM1","astrocyte",NA,0.555444555444555,NA
+"SCZ3_NO23_ARM1","Bergmann glial cell",NA,0.814185814185814,NA
+"SCZ3_NO23_ARM1","brain pericyte",NA,0.829170829170829,NA
+"SCZ3_NO23_ARM1","CD8-positive, alpha-beta T cell",NA,0.842157842157842,NA
+"SCZ3_NO23_ARM1","endothelial cell",NA,0.959040959040959,NA
+"SCZ3_NO23_ARM1","ependymal cell",NA,0.992007992007992,NA
+"SCZ3_NO23_ARM1","interneuron",NA,0.765234765234765,NA
+"SCZ3_NO23_ARM1","macrophage",NA,0.55044955044955,NA
+"SCZ3_NO23_ARM1","mature NK T cell",NA,0.57042957042957,NA
+"SCZ3_NO23_ARM1","medium spiny neuron",NA,0.953046953046953,NA
+"SCZ3_NO23_ARM1","microglial cell",NA,0.936063936063936,NA
+"SCZ3_NO23_ARM1","neuroepithelial cell",NA,0.292707292707293,NA
+"SCZ3_NO23_ARM1","neuron",NA,0.978021978021978,NA
+"SCZ3_NO23_ARM1","neuronal stem cell",NA,0.524475524475524,NA
+"SCZ3_NO23_ARM1","oligodendrocyte",NA,0.237762237762238,NA
+"SCZ3_NO23_ARM1","oligodendrocyte precursor cell",NA,0.869130869130869,NA
+"SCZ3_NO23_ARM1","T cell",NA,0.481518481518482,NA
+"T2D_CTRL","astrocyte",NA,NA,0.3916084
+"T2D_CTRL","Bergmann glial cell",NA,NA,0.43156844
+"T2D_CTRL","brain pericyte",NA,NA,0.25474524
+"T2D_CTRL","CD8-positive, alpha-beta T cell",NA,NA,0.38061938
+"T2D_CTRL","endothelial cell",NA,NA,0.3986014
+"T2D_CTRL","ependymal cell",NA,NA,0.13986014
+"T2D_CTRL","interneuron",NA,NA,0.8231768
+"T2D_CTRL","macrophage",NA,NA,0.5894106
+"T2D_CTRL","mature NK T cell",NA,NA,0.6923077
+"T2D_CTRL","medium spiny neuron",NA,NA,0.6853147
+"T2D_CTRL","microglial cell",NA,NA,0.4985015
+"T2D_CTRL","neuroepithelial cell",NA,NA,0.31868133
+"T2D_CTRL","neuron",NA,NA,0.9040959
+"T2D_CTRL","neuronal stem cell",NA,NA,0.12487513
+"T2D_CTRL","oligodendrocyte",NA,NA,0.63736266
+"T2D_CTRL","oligodendrocyte precursor cell",NA,NA,0.4845155
+"T2D_CTRL","T cell",NA,NA,0.21978022
